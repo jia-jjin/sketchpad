@@ -27,7 +27,6 @@ To run this project locally, ensure you have Flutter installed. Then, follow the
 2. **Install dependencies**:
 
   ```bash
-  Copy code
   flutter pub get
   ```
 
